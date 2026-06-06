@@ -2,7 +2,7 @@
 
 A full-stack financial analytics platform that transforms market, fundamental, and analyst data into an interactive equity research experience.
 
-![Dashboard](dashboard.png)
+![Dashboard](Finance%20Project%20-%20Dashboard.png)
 
 ## Overview
 
